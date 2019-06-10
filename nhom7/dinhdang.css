@@ -1,0 +1,36 @@
+.tong {width:1000px; margin:auto}
+.banner1 {width:1000px; height:auto; float:left; padding-top:10px}
+.banner2 img {width:1000px; height:auto; float:left; padding-top:10px}
+.logo {float:left; height:100px}
+#logo1 {float:left}
+#menu {float:left; padding-left:100px; padding-top:10px}
+#menu ul {list-style-type:none; text-align:center;}
+#menu ul li { display:inline-table; width:100px; height:40px; text-decoration:none}
+#menu ul li a { text-decoration:none; display:block;}
+#menu ul li a:hover {background:#F00}
+.sup_menu { display:none}
+#menu ul li:hover .sup_menu {display:block}
+#dang {float:left; padding-left:200px}
+.tmt {float:left; padding-top:20px;}
+#giay {float:left;}
+#giay b { float:left; padding-top:10px;}
+.giay1 {float:left;}
+.giay1 b img {width:200px; height:auto; padding-left:30px}
+.giay1 span { font-size:24px; font-weight:bold; text-align:center}
+.giay1 b pre {padding-left:30px}
+.giay1 b {float:left}
+.ket {float:left; padding-top:50px;}
+.ket span {font-size:18px; padding-bottom:10px; float:left;}
+.ket table { margin:auto}
+/*---------------------------------------------đăng ký-----------------------------------------------------------*/
+.backgroup_dk {float:left;background:url(adidas/banner_dk.jpg); background-position: center; background-repeat:no-repeat; width:1000px; height:500px}
+.backgroup_dn {float:left;background:url(adidas/banner_dn.jpg); background-position: center; background-repeat:no-repeat; width:1000px; height:500px}
+/*------------------------------------------cửa hàng nam---------------------------------------------------*/
+#loc {float:left; background:#000; color:#FFF; margin-top:50px; text-align:center; height:200px}
+#loc ul {list-style-type:none; text-align:center;}
+#loc ul li { width:100px; height:40px; text-decoration:none; position:relative}
+#loc ul li a { text-decoration:none; display:block;}
+#loc ul li a:hover {background:#F00}
+.sup_loc { display:none}
+#loc .sup_loc { position:absolute; left:100px; background:#000; top:0px}
+#loc ul li:hover .sup_loc {display:block}
